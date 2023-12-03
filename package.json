@@ -1,0 +1,14 @@
+{
+  "name": "eslint-invalid-package-json",
+  "version": "0.0.1",
+  "description": "Quick project to show what an invalid file named `package.json` does to ESLint",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "ESLINT_USE_FLAT_CONFIG=true npx eslint --config eslint.config.mjs ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-plugin-jsonc": "^2.10.0"
+  }
+}

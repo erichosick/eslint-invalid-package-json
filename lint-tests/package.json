@@ -1,0 +1,4 @@
+// This file has a comment so it is invalid.
+{
+  "status": "This file causes ESLint to error with the message 'Request eslint/noLibrary failed with message: command 'npm.packageManager' not found'",
+}
