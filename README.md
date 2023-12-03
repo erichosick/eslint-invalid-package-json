@@ -23,3 +23,7 @@ $ pnpm eslint
 /.../lint-tests/package.json
   1:1  error  Unexpected comment  jsonc/no-comments
 ```
+
+## Issue
+
+ESLint issue [17813](https://github.com/eslint/eslint/issues/17813).
