@@ -26,4 +26,4 @@ $ pnpm eslint
 
 ## Issue
 
-ESLint issue [17813](https://github.com/eslint/eslint/issues/17813).
+VSCode ESLint issue [1742](https://github.com/microsoft/vscode-eslint/issues/1742).
